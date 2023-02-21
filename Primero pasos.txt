@@ -1,0 +1,9 @@
+primero cree una carpeta llamada PI_1 y aloje dentro los archivos
+
+links de archivos 
+peliculas ratings = https://drive.google.com/file/d/1vhUCucnUzy0oxN6N7YgodFhCaYhgb6So/view?usp=sharing
+
+usuarios ratings = https://drive.google.com/file/d/1MsrUn2U4sEa2z8lgaowfDIq9pgSKOJkd/view?usp=share_link
+
+por favor descargue los datos
+luego dentro de la carpeta PI_1 cree otra carpeta "Datos", en ella aloje los archivos.csv
